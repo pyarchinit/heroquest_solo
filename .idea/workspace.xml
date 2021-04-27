@@ -4,123 +4,19 @@
     <bookmark url="file://$PROJECT_DIR$/cocos2D_gui.py" description="label.position = (320, 240)" line="20" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0731132-1647-4714-b667-c61b5640c3c3" name="Default Changelist" comment="">
+    <list default="true" id="f0731132-1647-4714-b667-c61b5640c3c3" name="Default Changelist" comment="More English strings translated">
+      <change beforePath="$PROJECT_DIR$/.idea/heroquest_legends.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/heroquest_legends.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroquest_legends.ui" beforeDir="false" afterPath="$PROJECT_DIR$/heroquest_legends.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroquest_legends_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/heroquest_legends_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heroquest_solo_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/heroquest_solo_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/EN_en.txt" beforeDir="false" afterPath="$PROJECT_DIR$/languages/EN_en.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-2020558873">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="70" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="10" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.13" value="4" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="13" />
-          <entry key="project.open.time.5" value="6" />
-          <entry key="project.open.time.6" value="6" />
-          <entry key="project.open.time.7" value="12" />
-          <entry key="project.open.time.8" value="5" />
-          <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="75" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="bmp" value="1" />
-          <entry key="jpg" value="13" />
-          <entry key="md" value="2" />
-          <entry key="png" value="7" />
-          <entry key="py" value="48" />
-          <entry key="txt" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="21" />
-          <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="47" />
-          <entry key="Scratch" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="784" />
-          <entry key="dummy" value="21" />
-          <entry key="md" value="94" />
-          <entry key="py" value="22976" />
-          <entry key="txt" value="15644" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Markdown" value="94" />
-          <entry key="PLAIN_TEXT" value="15665" />
-          <entry key="Python" value="23760" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="heroquest_solo" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/heroquest_legends_main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3528">
-              <caret line="210" column="80" selection-start-line="210" selection-start-column="80" selection-end-line="210" selection-end-column="80" />
-              <folding>
-                <element signature="e#1088#1101#0" expanded="true" />
-                <marker date="1619110463562" expanded="true" signature="10672:10681" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heroquest_solo_function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5568">
-              <caret line="232" column="8" selection-start-line="232" selection-start-column="8" selection-end-line="232" selection-end-column="8" />
-              <folding>
-                <element signature="e#1088#1101#0" expanded="true" />
-                <marker date="1619110145623" expanded="true" signature="6551:6556" ph="..." />
-                <marker date="1619110145623" expanded="true" signature="15977:15983" ph="..." />
-                <marker date="1619110145623" expanded="true" signature="21553:21558" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/languages/IT_it.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="117" column="12" selection-start-line="117" selection-start-column="3" selection-end-line="117" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -213,6 +109,7 @@
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectId" id="1rYwlIRjs5VbQubPN84b4SkmTMH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -242,6 +139,10 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -256,18 +157,6 @@
       <recent name="C:\Users\Luca\Programmazione\heroquest_solo" />
       <recent name="C:\Users\Luca\Programmazione\" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.heroquest_legends_main">
     <configuration name="cocos2D_gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -418,24 +307,25 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.heroquest_solo_main" />
-      <item itemvalue="Python.heroquest_solo_gui_ibg" />
-      <item itemvalue="Python.test_random" />
-      <item itemvalue="Python.neural_test" />
-      <item itemvalue="Python.test_gui" />
       <item itemvalue="Python.cocos2D_gui" />
       <item itemvalue="Python.heroquest_legends_main" />
+      <item itemvalue="Python.heroquest_solo_gui_ibg" />
+      <item itemvalue="Python.heroquest_solo_main" />
+      <item itemvalue="Python.neural_test" />
+      <item itemvalue="Python.test_gui" />
+      <item itemvalue="Python.test_random" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.heroquest_legends_main" />
-        <item itemvalue="Python.cocos2D_gui" />
+        <item itemvalue="Python.test_random" />
         <item itemvalue="Python.test_gui" />
         <item itemvalue="Python.neural_test" />
-        <item itemvalue="Python.test_random" />
+        <item itemvalue="Python.heroquest_legends_main" />
+        <item itemvalue="Python.cocos2D_gui" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_FIELDS" />
   </component>
@@ -744,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619032050491</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="More English strings translated">
+      <created>1619184648860</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1619184648860</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TodoView">
@@ -798,11 +695,22 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RESET ALL BUTTON ADDED" />
     <MESSAGE value="Add v0.01 exe CONSOLE for testing" />
     <MESSAGE value="More randomness in chests' items" />
     <MESSAGE value="Added exe version 05 BETA" />
@@ -827,7 +735,8 @@
     <MESSAGE value="New release .exe in italian and english" />
     <MESSAGE value="Files from alexander uploaded" />
     <MESSAGE value="New .exe versione 0.821 uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="New .exe versione 0.821 uploaded" />
+    <MESSAGE value="More English strings translated" />
+    <option name="LAST_COMMIT_MESSAGE" value="More English strings translated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
